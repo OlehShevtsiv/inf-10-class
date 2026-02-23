@@ -55,19 +55,19 @@ CLI виглядає "хакерським", але він реально кор
 ### 🔵 Командний інтерфейс Windows
 
 - ***cd {ім'я_папки}*** : змінити поточну папку (директорію)
-    > ![cd command example](etc\images\cd_screen.png)
+    > ![cd command example](etc/images/cd_screen.png)
 
 - ***cd ..*** : повернутись у попередню кореневу папку
-    > ![cd .. command example](etc\images\cd_prev_screen.png)
+    > ![cd .. command example](etc/images/cd_prev_screen.png)
 
 - ***dir*** : відобразити список файлів і папок у поточній папці (директорії)
-    > ![dir command example](etc\images\dir_screen.png)
+    > ![dir command example](etc/images/dir_screen.png)
 
 - ***echo. > {filename.ext}*** : створює новий файл в поточній папці
-    > ![new file command example](etc\images\new_file_screen.png)
+    > ![new file command example](etc/images/new_file_screen.png)
 
 - ***mkdir {ім'я_папки}*** : створити нову папку
-    > ![mkdir command example](etc\images\mkdir_screen.png)
+    > ![mkdir command example](etc/images/mkdir_screen.png)
 
 - ***cls***: очистити екран терміналу
 
